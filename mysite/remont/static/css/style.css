@@ -1,0 +1,9 @@
+.bi {
+    position: absolute;
+    top: 150px;
+    left: 200px;
+}
+body{
+    margin: 0;
+    background-color: silver;
+}
